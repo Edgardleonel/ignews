@@ -1,0 +1,23 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "publication",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": "mix",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Laboris ea esse ea dolore sit excepteur velit laboris velit labore occaecat. Mollit enim eu velit officia ut irure commodo duis in ad laboris laborum deserunt. Nulla id occaecat incididunt laboris deserunt aliqua non ullamco laborum.",
+        "spans": []
+      }
+    ]
+  }
+}
